@@ -1,0 +1,5 @@
+rootProject.name = 'webclient_microservice'
+include 'common-service'
+include 'course-service'
+include 'student-service'
+
